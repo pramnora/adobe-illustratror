@@ -8,6 +8,8 @@ Last updated: *Wed 24 Jan 2024 05:17 AM GMT*
 
 ## Introduction
 
+*Mon 22 Jan 2024*  
+
 My first introduction to using Adobe Illustrator 'graphic' software...;  
 was when I took a course at WMCollege, Mornington Crescent branch, called:   
 **ALS/Additional Learning Support: Creative Computing**  
