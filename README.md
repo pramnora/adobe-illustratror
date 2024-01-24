@@ -21,6 +21,22 @@ in that I was totally unfamiliar with having used such graphic software before.
 Also, when I checked out seeing a few YouTube tutorials...;  
 I was amazed at the endless number of effects it's possible to produce.  
 
+-----
+
+## Using Adobe Illustrator: Saving files
+
+After class, I went downstairs to visit the computer room...where I continued studying.
+-(NOTE: The computers downstairs also have Adobe Illustrator software available to continue working on.)-
+
+I discovered that Abobe Illustrator files can be saved using multiple different formats, including:-
+
+-- [.ai] The native Adobe Illustrator format file (this means you can open it/and, continue editing that same file)
+-- [.pdf] Adobe portable document format file
+-- [.svg]/ Scaleable Vector file
+-- and, more...
+
+Too, I wanted to play around at learning to use Adobe Illustrator Menus/tools...find out what they do/and, also, how they do it...?
+
 ----
 
 ## Links...
