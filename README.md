@@ -6,7 +6,7 @@ Last updated: *Wed 24 Jan 2024 05:17 AM GMT*
 
 -----
 
-## Introuction
+## Introduction
 
 My first introduction to using Adobe Illustrator software...;  
 was when I took a course at WMCollege, Mornington Crescent branch, called:   
