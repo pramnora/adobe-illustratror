@@ -6,6 +6,12 @@ Last updated: *Wed 24 Jan 2024 05:17 AM GMT*
 
 -----
 
+My first introduction to using Adobe Illustrator software...;  
+was when I took a course at WMCollege, Mornington Crescent branch, called:   
+**ALS/Additional Learing Support: Creative Computing**  inside of room 513/10 AM - 12:30 PM.    
+
+**
+
 ----
 
 ## Links...
