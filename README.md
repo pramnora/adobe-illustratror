@@ -10,7 +10,7 @@ Last updated: *Wed 24 Jan 2024 05:17 AM GMT*
 
 My first introduction to using Adobe Illustrator 'graphic' software...;  
 was when I took a course at WMCollege, Mornington Crescent branch, called:   
-**ALS/Additional Learing Support: Creative Computing**  
+**ALS/Additional Learning Support: Creative Computing**  
 which was being given inside of room: 513/10 AM - 12:30 PM/(10 weeks course).     
 
 - https://github.com/pramnora/creative-computing/edit/main/README.md  
