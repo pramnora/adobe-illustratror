@@ -1,4 +1,4 @@
-# adobe-illustratror
+# adobe-illustrator
 adobe-illustrator
 
 Page created: *Wed 24 Jan 2024 05:17 AM GMT*  
