@@ -25,7 +25,7 @@ I was amazed at the endless number of effects it's possible to produce.
 
 -----
 
-## Using Adobe Illustrator: Saving files
+## Adobe Illustrator: Saving files
 
 After class, I went downstairs to visit the computer room...where I continued studying.  
 -(**NOTE**: The computers downstairs also have Adobe Illustrator software available to continue working on.)-
