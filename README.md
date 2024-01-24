@@ -15,7 +15,7 @@ was when I took a course at WMCollege, Mornington Crescent branch, called:
 **ALS/Additional Learning Support: Creative Computing**  
 which was being given inside of room: 513/10 AM - 12:30 PM/(10 weeks course).     
 
-- https://github.com/pramnora/creative-computing/edit/main/README.md  
+- https://github.com/pramnora/creative-computing/
 
 I found it really very interesting, and, even, exciting to use...;  
 in that I was totally unfamiliar with having used such graphic software before.  
