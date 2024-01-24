@@ -8,10 +8,12 @@ Last updated: *Wed 24 Jan 2024 05:17 AM GMT*
 
 ## Introduction
 
-My first introduction to using Adobe Illustrator software...;  
+My first introduction to using Adobe Illustrator 'graphic' software...;  
 was when I took a course at WMCollege, Mornington Crescent branch, called:   
 **ALS/Additional Learing Support: Creative Computing**  
 which was being given inside of room: 513/10 AM - 12:30 PM.   
+
+- https://github.com/pramnora/creative-computing/edit/main/README.md  
 
 I found it really very interesting, and, even, exciting to use...;  
 in that I was totally unfamiliar with having used such software before.  
